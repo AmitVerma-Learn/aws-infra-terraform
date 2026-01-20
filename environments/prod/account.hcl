@@ -1,4 +1,4 @@
 locals {
-  account_id   = "987654321098"  # Replace with your AWS account ID
+  account_id   = "954976302842"
   account_name = "prod"
 }
